@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\polly\\source\\repos\\WpfApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\classes\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\wpfapp5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\wpfapp5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\itemswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\itemswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\itemswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\itemswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\models\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\models\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|c:\\users\\polly\\source\\repos\\wpfapp5\\wpfapp5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8427EB7C-DCCC-0549-3FDD-A6EA87DB5087}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\Classes\\DB.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\Classes\\DB.cs",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\Classes\\DB.cs",
+              "RelativeToolTip": "WpfApp5\\Classes\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:37:35.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfApp5.csproj",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+              "RelativeDocumentMoniker": "WpfApp5\\WpfApp5.csproj",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+              "RelativeToolTip": "WpfApp5\\WpfApp5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T12:37:08.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\ItemsWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\ItemsWindow.xaml",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\ItemsWindow.xaml",
+              "RelativeToolTip": "WpfApp5\\ItemsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T12:36:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "WpfApp5\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:14:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\ItemsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\ItemsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\ItemsWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp5\\ItemsWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:56:43.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\Models\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\Models\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\Models\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs",
+              "RelativeToolTip": "WpfApp5\\Models\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:42:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\polly\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-04T12:14:46.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
